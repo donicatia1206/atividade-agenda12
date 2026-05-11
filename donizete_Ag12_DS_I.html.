@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Meus sites favoritos</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: auto; padding: 20px; background-color: #f4f4f4; }
+        section { background: white; padding: 15px; margin-bottom: 20px; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1); }
+        img { width: 100%; border-radius: 5px; }
+        h1 { text-align: center; }
+        a { color: #d9534f; font-weight: bold; text-decoration: none; display: block; margin-top: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Meus sites favoritos: Donizete Santos</h1>
+    <section>
+        <h2>Google Fotos</h2>
+        <img src="fotos.png" alt="Google Fotos">
+        <a href="https://photos.google.com" target="_blank">Acesse o Site</a>
+    </section>
+    <section>
+        <h2>YouTube</h2>
+        <img src="youtube.png" alt="YouTube">
+        <a href="https://www.youtube.com" target="_blank">Acesse o Site</a>
+    </section>
+    <section>
+        <h2>Google Chrome</h2>
+        <img src="chrome.png" alt="Chrome">
+        <a href="https://www.google.com" target="_blank">Acesse o Site</a>
+    </section>
+    <section>
+        <h2>WhatsApp</h2>
+        <img src="whatsapp.png" alt="WhatsApp">
+        <a href="https://web.whatsapp.com" target="_blank">Acesse o Site</a>
+    </section>
+    <section>
+        <h2>Facebook</h2>
+        <img src="facebook.png" alt="Facebook">
+        <a href="https://www.facebook.com" target="_blank">Acesse o Site</a>
+    </section>
+</body>
+</html>
